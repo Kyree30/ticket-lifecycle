@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 "Next up is Assignment. Here, you will be addressing the situation by priority, department, SLA, etc., to ensure that we are following the SLA."
 </p>
 <br />
-<h1><b>Communication And Working Out The Issue<h1><b>
+<h1><b>Communication And Working Out The Issue</b></h1>
 <p>
 <img src="https://i.imgur.com/K9D2pwn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
