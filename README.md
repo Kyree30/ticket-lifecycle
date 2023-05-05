@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-<b>Intake</b>
+<h1><b>Intake</b></h1>
 <p>
 <img src="https://i.imgur.com/gRdcjQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 "First up is intake. What you will be doing during intake is going to http://localhost/osTicket/ to create your ticket. You will need to provide the necessary details regarding the issues you are experiencing."
 </p>
 <br />
-
+<h1><b>Assignment</b></h1>
 <p>
 <img src="https://i.imgur.com/mjYQeL9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/jk9PQ0h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 "Next up is Assignment. Here, you will be addressing the situation by priority, department, SLA, etc., to ensure that we are following the SLA."
 </p>
 <br />
-
+<h1><b>Communication And Working Out The Issue<h1><b>
 <p>
 <img src="https://i.imgur.com/K9D2pwn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -50,7 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 "Communication and working out the issue: For communication, everyone will be able to view the ticket to stay aware of what has already been done, and facilitators can also be involved. Working out the issue will be assigned to the department and the people who are within that department."
 </p>
 <br />
-
+  <h1><b>Resolved</b></h1>
 <p>
 <img src="https://i.imgur.com/qUhh5JV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/E8g5Uh1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
